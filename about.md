@@ -1,9 +1,8 @@
 ---
 layout: page
-title: CAmera Trap REsearch INfrastructure
 ---
 
-# Introducton
+# Introduction
 
 ...
 

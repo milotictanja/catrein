@@ -1,5 +1,5 @@
 ---
-title: CATREIN
+title:
 ---
 
 Welcome on the CATREIN page

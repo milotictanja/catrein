@@ -1,15 +1,8 @@
 ---
-layout: about
-permalink: /
+layout: default
 title: CATREIN
 description: CAmera Trap REsearch INfrastructure
 
-profile:
-  align: right
-  image: prof_pic.jpg
-
-news: false
-social: true
 ---
 
 Short project description

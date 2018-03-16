@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: CATREIN
 description: CAmera Trap REsearch INfrastructure
 

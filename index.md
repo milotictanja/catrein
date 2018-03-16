@@ -1,5 +1,5 @@
 ---
-title: "Setup of an index page"
+title: CATREIN
 ---
 
 Welcome on the CATREIN page

@@ -1,8 +1,14 @@
 ---
 layout: page
-title: CATREIN
-description: CAmera Trap REsearch INfrastructure
-
+title: CAmera Trap REsearch INfrastructure
 ---
 
-Short project description
+# Introducton
+
+...
+
+# Partners
+
+WUR
+INBO
+UHASSELT
